@@ -1,0 +1,5 @@
+# Because we have `npm install`
+node_modules/
+
+# Just in case my global config misses it
+.DS_Store
